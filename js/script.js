@@ -94,8 +94,7 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: 29th March & 28th April, 2026!', styles);
-
+console.log('\n\n%c SAVE THE DATE: 28th April & 29th April, 2026!', styles);
 console.log('%cYour presence is requested!%c\n\nRam Samarth & Amulya', styles1, styles2);
 
 console.log(
